@@ -1,0 +1,22 @@
+table {
+
+    border-collapse: collapse;
+    table-layout: auto;
+    border: 3px solid;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid
+}
+
+td {
+
+    padding: 10px;
+    border: 1px solid
+}
+
+tr{
+    padding: 10px;
+    border: 1px solid;
+}
